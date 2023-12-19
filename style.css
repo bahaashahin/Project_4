@@ -1,0 +1,189 @@
+body {
+    font-size: 15pt;
+    background-color: sienna; 
+    background-image: url(../img/back.jpg);
+   /* background-position: center;*/
+    background-size: 980px;
+    background-repeat: no-repeat;
+    padding-top: 0;
+    margin-top: 0;
+}
+.p1{
+  font-family: 'Whisper', cursive;
+  color: lemonchiffon;
+  margin-left: 20px;
+  font-size: 30px;
+  margin: 2px;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.im2{
+  width: 60px;
+  height: 60px;
+  margin-top: 25px;
+}
+.ul1{
+  float: right;
+  margin-top: -50px;
+  margin-right:20px; 
+}
+.ul1 .li1:hover{
+  color: lightblue; 
+}
+.ul1 .li1{
+  display: inline-block;
+  color: lemonchiffon;
+  margin: 20px;
+}
+.ul1 .li1 a{
+  text-decoration: none;
+}
+.line1{
+  width: 100%;
+  height: 1px;
+  background-color: lemonchiffon;
+}
+/*main*/
+.d1{
+  text-align: center;
+}
+.img1{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: 330px;
+  margin-right: 340px;
+  margin-top: 70px;
+}
+.p2{
+  font-family: 'Whisper', cursive;
+  font-size: 60px;
+  margin: 0;
+}
+.p3{
+  color: lemonchiffon;
+}
+.line2{
+   width: 500px;
+   height: 3px;
+   background-color: lemonchiffon;
+   margin-left: 240px;
+}
+.about{
+  /*text-align: center;*/
+}
+.veiw{
+  text-align: center;
+}
+.p4{
+  font-size: 40px;
+  margin: 0;
+  color: lemonchiffon;
+}
+.p4 span{
+  font-family: 'Whisper', cursive;
+ font-size: 40px;
+ margin: 0;
+}
+.p5{
+  margin: 0;
+  font-size: 45px;
+  color: lemonchiffon;
+  font-family: 'Whisper', cursive;
+}
+.imgs{
+  overflow: auto;
+  margin-left: 150px; 
+}
+.imgs1{
+  width: 300px;
+  height: 300px;
+  border-radius:30px;
+  /*border: 1px solid chocolate;*/ 
+  margin: 20px;
+}
+.span1{
+  float: left;
+  word-spacing: 240px;
+  margin-left: 120px;
+  font-size: 30px;
+  color: lemonchiffon;
+}
+.imgs2{
+  text-align: center;
+  overflow: auto;
+}
+.imgs3{
+  width: 250px;
+  height: 250px;
+  border-radius:30px;
+/*  border: 1px solid chocolate;*/
+  margin: 20px;
+}
+/*Disc.*/
+.discounts{
+  text-align: center;
+}
+.pr1{
+  overflow: auto;
+  margin-left:60px; 
+}
+.ch1{
+  width: 260px;
+  height: 280px;
+  background-color: lemonchiffon;
+  border-radius: 30px;
+  float: left;
+  margin-left: 20px;
+}
+.im{
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+.dis{
+  color: chocolate;
+  word-spacing: 20px;
+  margin: 0;
+  font-size: 30px;
+}
+.menu{
+  text-align: center;
+}
+.menulist{
+  border-radius: 20px;
+}
+.feedback{
+  text-align: center;
+}
+textarea{
+  width: 300px;
+  height: 200px;
+  background-color: lemonchiffon;
+  color: chocolate;
+  border-radius: 20px;
+}
+.submit{
+  width: 100px;
+  height: 40px;
+  border-radius:20px;
+  background-color: lemonchiffon;
+  color: chocolate;
+  border: 2px solid lemonchiffon;
+}
+.submit:hover{
+  color: lightblue;
+}
+.fouter{
+width: 100%;
+  height: 100px;
+  background-color: lemonchiffon;
+  text-align: center;
+  color: chocolate;
+  font-size: 7px;
+}
+.fouter .p0{
+ padding-top: 50px;
+ color: chocolate; 
+}
